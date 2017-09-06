@@ -240,7 +240,7 @@ RCT_EXPORT_METHOD(pay:(NSDictionary *)data
             }
         }
     }
-    gIsAppRegistered = [WXApi registerApp:gAppID];
+    gIsAppRegistered = [WXApi registerApp:gAppID enableMTA:NO];
 }
 
 
