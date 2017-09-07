@@ -5,37 +5,39 @@
       "/Volumes/hd2/git/hukaobiguo"
     ]
   ],
-  "_from": "react-native-wx@3.0.3",
+  "_from": "git+https://github.com/oonxt/react-native-wx.git",
   "_id": "react-native-wx@3.0.3",
   "_inBundle": false,
-  "_integrity": "sha1-76RNgcfq3DRAk4BrUL3pC2GDTTk=",
+  "_integrity": "sha1-a9LDhWoVvoBTN6jCd0JZ6BPV2n0=",
   "_location": "/react-native-wx",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "react-native-wx@3.0.3",
+    "type": "git",
+    "raw": "react-native-wx@git+https://github.com/oonxt/react-native-wx.git",
     "name": "react-native-wx",
     "escapedName": "react-native-wx",
-    "rawSpec": "3.0.3",
-    "saveSpec": null,
-    "fetchSpec": "3.0.3"
+    "rawSpec": "git+https://github.com/oonxt/react-native-wx.git",
+    "saveSpec": "git+https://github.com/oonxt/react-native-wx.git",
+    "fetchSpec": "https://github.com/oonxt/react-native-wx.git",
+    "gitCommittish": "master"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "http://registry.npm.taobao.org/react-native-wx/download/react-native-wx-3.0.3.tgz",
-  "_spec": "3.0.3",
-  "_where": "/Volumes/hd2/git/hukaobiguo",
+  "_resolved": "git+https://github.com/oonxt/react-native-wx.git#9b0bb4ab197c286290a9e7b2335f82b95d75da74",
+  "_spec": "react-native-wx@git+https://github.com/oonxt/react-native-wx.git",
+  "_where": "/Users/mac/Documents/TestShare",
   "author": {
     "name": "lvbingru"
   },
   "bugs": {
     "url": "https://github.com/reactnativecn/react-native-wx/issues"
   },
+  "bundleDependencies": false,
   "dependencies": {
     "bluebird": "^3.5.0"
   },
+  "deprecated": false,
   "description": "微信登录、分享、支付模块",
   "homepage": "https://github.com/reactnativecn/react-native-wx#readme",
   "keywords": [
@@ -51,6 +53,9 @@
   "license": "ISC",
   "main": "index.js",
   "name": "react-native-wx",
+  "peerDependencies": {
+    "react-native": "^0.33.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reactnativecn/react-native-wx.git"
