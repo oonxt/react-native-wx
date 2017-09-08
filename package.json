@@ -31,7 +31,7 @@
     "name": "lvbingru"
   },
   "bugs": {
-    "url": "https://github.com/reactnativecn/react-native-wx/issues"
+    "url": "https://github.com/oonxt/react-native-wx/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -39,7 +39,7 @@
   },
   "deprecated": false,
   "description": "微信登录、分享、支付模块",
-  "homepage": "https://github.com/reactnativecn/react-native-wx#readme",
+  "homepage": "https://github.com/oonxt/react-native-wx#readme",
   "keywords": [
     "react-native",
     "ios",
@@ -58,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactnativecn/react-native-wx.git"
+    "url": "git+https://github.com/oonxt/react-native-wx.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
