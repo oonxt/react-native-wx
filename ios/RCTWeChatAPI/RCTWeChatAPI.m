@@ -197,6 +197,8 @@ RCT_EXPORT_METHOD(pay:(NSDictionary *)data
     if (success == NO)
     {
         callback(@[INVOKE_FAILED]);
+    } else {
+        callback(@[[NSNull null]]);
     }
 }
 
